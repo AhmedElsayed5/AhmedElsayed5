@@ -3,4 +3,4 @@
 
 - 🔭 Fullstack Engineer
 - 📫 How to reach me: ahmedelsayed11595@gmail.com
-- Html, CSS, Javascript, Git, GitHub, Figma, React, PHP
+- React JS, Typescript, Node JS, Express, MongoDB, Keystone 6 and graphql
