@@ -5,7 +5,7 @@
 - STEM Background B.S.:CS
 - Led a team to build product for tourisim agency that generated +1 million dollars for our customer
 - Revenue for products I played a big rule on designing and implementing +2 million dollars
-- Projects Worked on including not limited to (Scintific Reasearch Startups ,e-commerce, Marketing Agencies, Tourisim Agencies)
+- Clients Worked on including not limited to (Scintific Reasearch Startups ,e-commerce, Marketing Agencies, Tourisim Agencies)
 - Competed at Algorithms Problems solving which led to mastering complex algorithms and data structures (Graph, DP, Recursion, Trees, linked lists, Hash Map, Hash Table, Binary Search)
 - Tripleten Software Engineering Program Alumni (MERN Stack)
 - How to reach me: ahmedelsayed11595@gmail.com
