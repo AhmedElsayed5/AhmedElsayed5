@@ -9,4 +9,5 @@
 - Competed at Algorithms Problems solving which led to mastering complex algorithms and data structures (Graph, DP, Recursion, Trees, linked lists, Hash Map, Hash Table, Binary Search)
 - Tripleten Software Engineering Program Alumni (MERN Stack)
 - How to reach me: ahmedelsayed11595@gmail.com
+- LinkedIn: www.linkedin.com/in/ahmed-awad95
 - JS, Typescript, React, Node JS, Express, MongoDB, PHP, C++, C, Java, graphql, AngularJS, Software Design, Frontend Development, Backend Development, Git, MySQL 
