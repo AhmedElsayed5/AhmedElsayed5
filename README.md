@@ -1,7 +1,7 @@
 - +3 Years Experience as a Software Engineer
 - STEM Background B.S.:CS
 - JS, Typescript, React, Node JS, Express, MongoDB, PHP, C++, C, Java, graphql, AngularJS, Software Design, Frontend Development, Backend Development, Git, MySQL, Algorithms, Data structures
-- Led a team to build a product for a Tourism agency that generated +1 million dollars for our customer
+- Led a team to build a product for a Tourism agency to an international customer that generated +1 million dollars
 - Clients Worked on including, but not limited to (Scientific Research Startups, e-commerce, Marketing Agencies, and Tourism Agencies)
 - Revenue for products: I provided innovative technical solutions such as building websites and designing databases for e-commerce platforms and marketing agencies, where we needed to build customer-focused products that provide seamless experiences for users. We helped to increase demand for our client’s products and services.
 - Competed at Algorithms problem solving which led to mastering complex algorithms and data structures (Graph, DP, Recursion, Trees, linked lists, Hash Map, Hash Table, Binary Search)
