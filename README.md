@@ -8,4 +8,3 @@
 - Tripleten Software Engineering Program Alumni (MERN Stack)
 - How to reach me: ahmedelsayed11595@gmail.com
 - LinkedIn: www.linkedin.com/in/ahmed-awad95
-![image](https://github.com/AhmedElsayed5/AhmedElsayed5/assets/46688006/457c1772-3fde-4a6e-9f02-4c59e7fdb655)
