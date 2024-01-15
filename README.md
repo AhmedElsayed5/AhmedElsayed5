@@ -1,13 +1,11 @@
-### Hi there this is Ahmed Awad I'm a Software Engineer @ Synthesis workshop
-
-
-- +3 Years Experience as Software Engineer
+- +3 Years Experience as a Software Engineer
 - STEM Background B.S.:CS
-- Led a team to build product for Tourism agency that generated +1 million dollars for our customer
-- Revenue for products I played a big rule on designing and implementing +2 million dollars
-- Clients Worked on including not limited to (Scintific Reasearch Startups ,e-commerce, Marketing Agencies, Tourisim Agencies)
-- Competed at Algorithms Problems solving which led to mastering complex algorithms and data structures (Graph, DP, Recursion, Trees, linked lists, Hash Map, Hash Table, Binary Search)
+- JS, Typescript, React, Node JS, Express, MongoDB, PHP, C++, C, Java, graphql, AngularJS, Software Design, Frontend Development, Backend Development, Git, MySQL, Algorithms, Data structures
+- Led a team to build a product for a Tourism agency that generated +1 million dollars for our customer
+- Clients Worked on including, but not limited to (Scientific Research Startups, e-commerce, Marketing Agencies, and Tourism Agencies)
+- Revenue for products: I provided innovative technical solutions such as building websites and designing databases for e-commerce platforms and marketing agencies, where we needed to build customer-focused products that provide seamless experiences for users. We helped to increase demand for our client’s products and services.
+- Competed at Algorithms problem solving which led to mastering complex algorithms and data structures (Graph, DP, Recursion, Trees, linked lists, Hash Map, Hash Table, Binary Search)
 - Tripleten Software Engineering Program Alumni (MERN Stack)
 - How to reach me: ahmedelsayed11595@gmail.com
 - LinkedIn: www.linkedin.com/in/ahmed-awad95
-- JS, Typescript, React, Node JS, Express, MongoDB, PHP, C++, C, Java, graphql, AngularJS, Software Design, Frontend Development, Backend Development, Git, MySQL 
+![image](https://github.com/AhmedElsayed5/AhmedElsayed5/assets/46688006/457c1772-3fde-4a6e-9f02-4c59e7fdb655)
